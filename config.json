@@ -1,0 +1,106 @@
+{
+    "bot": {
+        "owner": "539108436722319400",
+        "prefix": "!",
+        "BotStatus": "HydroniX was here!",
+        "BotFooter": "HydroniX was here!",
+        "cooldown": 8
+    },
+    "penals": {
+        "ban": {
+            "staff": "938881154398957619",
+            "log": "947532828298600478",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "938881154398957619",
+            "roles": "936728702748872715",
+            "log": "947532828298600478",
+            "channel": "934189068470870048",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "938881154398957619",
+            "roles": "938870985506029569",
+            "log": "947532828298600478",
+            "limit": 5
+        },
+            "voicemute": {
+            "staff": "938881154398957619",
+            "roles": "938870985506029569",
+            "log": "947532828298600478",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "938881154398957619",
+            "log": "947532828298600478"
+        },
+        "transport": {
+            "staff": "938881154398957619"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "taglog": "947532828298600478",
+        "rollog": "947532828298600478",
+        "seslog": "947532828298600478"
+    },
+    "roles": {
+        "booster": "938866858545786923",
+        "vip": "938866858545786923",
+        "sponsor": "938866858545786923",
+        "müzisyen": "938866858545786923",
+        "team": "947468033545371689"
+    },
+    "channels": {
+        "chat": "934189068470870048",
+        "voicechannel": "934189068470870049",
+        "welcomechannel": "947172863943798835",
+        "rules": "941800758020562965"
+    },
+    "kategoriler": {
+        "publickategorisi": "934189068470870047"
+    },
+    "registration": {
+        "unregistered": "936680781596729344",
+        "man": ["948646485766078484", "948647306322919424"],
+        "woman": ["948649838914965524", "947468637034389514"],
+        "yetkilialim": "947224016110903336",
+        "staff": "938881154398957619",
+        "enaltyetkilirolü": "936681103966756945",
+        "GuilDTag": "1740",
+        "GuilDTag2": "Wândy",
+        "GuilDTag3": "◊",
+        "TagSymbol": "◊",
+        "autonickname": "• İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "936741555866337320",
+        "susoeciosnickname": "Şüpheli Hesap",
+        "yasaklıtag": "948995290462031882",
+        "oneman": "948646485766078484",
+        "onewoman": "948649838914965524",
+        "GuildDiscrim": "1740",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "934189067967541268",
+        "GuilDName": "owoooooo",
+        "GuildOwnerRole": ["938881154398957619"]
+    },
+    "emojis": {
+        "tada": ":tada:",
+        "yes": "<:768113193615622145:938867336054734868>",
+        "no": "<:mavera_cross:947222483398979584>"
+    },
+        "buttons": {
+            "giveaway": "948995922552041562",
+            "activity": "948995962699931738"
+        }
+    }
+    
